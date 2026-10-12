@@ -1,4 +1,4 @@
-# 🛡️ SentinelFraud AI - Fraud Detection System Prototype
+# 🛡️ ARGUS - Fraud Detection System Prototype
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B.svg)](https://streamlit.io/)
